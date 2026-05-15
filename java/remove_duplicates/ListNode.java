@@ -1,4 +1,4 @@
-package remove_duplicates;
+package java.remove_duplicates;
 
 public class ListNode {
     private int val;

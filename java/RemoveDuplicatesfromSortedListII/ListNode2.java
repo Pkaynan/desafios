@@ -1,4 +1,4 @@
-package RemoveDuplicatesfromSortedListII;
+package java.RemoveDuplicatesfromSortedListII;
 
 public class ListNode2 {
     private int val;

@@ -1,4 +1,4 @@
-package frota_taxi;
+package java.frota_taxi;
 
 import java.util.Arrays;
 import java.util.Scanner;

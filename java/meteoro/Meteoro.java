@@ -1,4 +1,4 @@
-package meteoro;
+package java.meteoro;
 
 import java.util.Scanner;
 

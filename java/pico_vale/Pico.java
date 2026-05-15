@@ -1,4 +1,4 @@
-package pico_vale;
+package java.pico_vale;
 
 import java.util.Scanner;
 

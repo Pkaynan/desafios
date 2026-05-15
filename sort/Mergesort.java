@@ -1,6 +1,8 @@
+package sort;
+
 import java.util.Random;
 
-public class mergesort {
+public class Mergesort {
 
     public static void main(String[] args) {
         Random random = new Random();

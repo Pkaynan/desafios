@@ -1,4 +1,4 @@
-package palindromo;
+package java.palindromo;
 
 public class Palindromo {
 
